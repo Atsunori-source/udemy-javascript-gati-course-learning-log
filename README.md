@@ -1,7 +1,7 @@
 # Udemu 学習記録
 ## 20250908
 初回コミット  
-JSの学習開始
+JSの学習開始 3-11
 ### ECMAScriptとは
 JavaScriptとJScriptという2つの言語があったが互換性がなかった。  
 Javascriptのコアの部分を言語仕様として切り出したもの。  
@@ -12,3 +12,6 @@ Javascriptのコアの部分を言語仕様として切り出したもの。
 ECMAScriptの他にWeb APIsがある。JSからブラウザの機能を使うため（DOMAPI）など  
 #### Node.js環境
 ECMAScriptの他にCommonJS(モジュールを管理する仕組み)
+## 20250911
+3-12~4-16  
+ビデオ視聴
